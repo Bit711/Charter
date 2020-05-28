@@ -1,0 +1,65 @@
+[{
+	"customerName": "Brad",
+	"months": [
+		{
+			"month": "October",
+			"transactions": ["100", "200", "25"]
+		},
+		{
+			"month": "November",
+			"transactions": ["122", "88", "32"]
+		},
+		{
+			"month": "December",
+			"transactions": ["133", "141"]
+		}
+	]},
+	{
+		"customerName": "Randy",
+		"months": [
+			{
+				"month": "October",
+				"transactions": ["132", "54", "17"]
+			},
+			{
+				"month": "November",
+				"transactions": ["65", "122", "25", "15"]
+			},
+			{
+				"month": "December",
+				"transactions": ["83", "111", "101"]
+			}
+		]},
+	{
+		"customerName": "Sharon",
+		"months": [
+			{
+				"month": "October",
+				"transactions": ["5", "134", "64", "71"]
+			},
+			{
+				"month": "November",
+				"transactions": ["99"]
+			},
+			{
+				"month": "December",
+				"transactions": ["62", "45", "99"]
+			}
+		]},
+	{
+		"customerName": "Lindsay",
+		"months": [
+			{
+				"month": "October",
+				"transactions": ["100", "200"]
+			},
+			{
+				"month": "November",
+				"transactions": ["130", "26", "25", "88"]
+			},
+			{
+				"month": "December",
+				"transactions": ["185", "37", "42"]
+			}
+		]}
+]
