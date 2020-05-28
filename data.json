@@ -1,0 +1,53 @@
+records = [{
+	"customerName": "Brad"
+	"months": [
+		"October": {
+			"transactions": ["100", "200", "25"]
+		},
+		"November": {
+			"transactions": ["122", "88", "32"]
+		},
+		"December": {
+			"transactions": ["133", "141"]
+		}
+	]},
+	{
+	"customerName": "Randy"
+	"months": [
+		"October": {
+			"transactions": ["132", "54", "17"]
+		},
+		"November": {
+			"transactions": ["65", "122", "25", "15"]
+		},
+		"December": {
+			"transactions": ["83", "111", "101"]
+		}
+	]},
+	{
+	"customerName": "Sharon"
+	"months": [
+		"October": {
+			"transactions": ["5", "134", "64", "71"]
+		},
+		"November": {
+			"transactions": ["99"]
+		},
+		"December": {
+			"transactions": ["62", "45", "99"]
+		}
+	]},
+	{
+	"customerName": "Lindsay"
+	"months": [
+		"October": {
+			"transactions": ["100", "200"]
+		},
+		"November": {
+			"transactions": ["130", "26", "25", "88"]
+		},
+		"December": {
+			"transactions": ["185", "37", "42"]
+		}
+	]},
+]
